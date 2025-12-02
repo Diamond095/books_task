@@ -1,0 +1,7 @@
+# Игнорируем конфиг с паролями
+config.php
+
+# IDE / OS files
+/.idea
+.vscode
+.DS_Store
